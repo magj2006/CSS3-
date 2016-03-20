@@ -21,7 +21,7 @@
   ```
 
 ##  二、  CSS命名规则
-![alt text](./pic/named_rule.JPG "css named rule")
+![alt text](../pic/named_rule.JPG "css named rule")
 
 CSS 命名规则有两部分：即选择符和声明。 声明又由两部分组成，即属性和值。
 声明包含在一对{}中。
